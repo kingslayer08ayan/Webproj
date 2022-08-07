@@ -1,2 +1,2 @@
 # Webzproj
-Web Projects
+Web Projects using html,css and JS
